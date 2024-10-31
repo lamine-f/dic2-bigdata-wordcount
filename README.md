@@ -8,21 +8,21 @@ Ce projet a pour objectif de compter les occurrences de chaque mot dans un texte
 - **sortie du programme.txt** : Ce fichier contient la sortie du programme de comptage de mots.
 
 ## Instructions d'Utilisation
-
-1. **Compilation du Code Source**  
+1. **Ajout du fichier**  
+   Il faut mettre le fichier `purchases.txt` dans le répertoire `code source/resources`.
+2. **Compilation du Code Source**  
    Pour compiler le code Java, naviguez dans le répertoire `code source` et exécutez la commande suivante :
    ```bash
-   cd code\ source
    javac Main.java
    ```
 
-2. **Exécution du Programme**  
+3. **Exécution du Programme**  
    Après la compilation, vous pouvez exécuter le programme avec la commande :
    ```bash
    java Main
    ```
 
-   Le résultat du programme sera stocké dans le fichier `output.txt` situé dans le répertoire `code source`.
+   Le résultat du programme sera stocké dans le fichier `output.txt` situé dans le même répertoire.
 
 ## Fonctionnement
 
