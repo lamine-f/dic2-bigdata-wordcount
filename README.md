@@ -5,7 +5,7 @@ Ce projet a pour objectif de compter les occurrences de chaque mot dans un texte
 ## Structure du Projet
 
 - **code source/** : Ce répertoire contient le code source Java.
-- **output.txt** : Ce fichier contient la sortie du programme de comptage de mots.
+- **sortie du programme.txt** : Ce fichier contient la sortie du programme de comptage de mots.
 
 ## Instructions d'Utilisation
 
